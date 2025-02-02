@@ -40,3 +40,6 @@ pip install -r requirements.txt
 
 💻 Exécution
 python scanner/network_scanner.py
+git add .
+git commit -m "Ajout des fichiers manquants"
+git push -u origin main
